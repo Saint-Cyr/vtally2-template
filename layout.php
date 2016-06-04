@@ -131,6 +131,25 @@
                 </div>
                 
                 <ul class="nav navbar navbar-top-links navbar-right mbn">
+                    <li class="dropdown"><a data-hover="dropdown" href="#" class="dropdown-toggle"><i class="fa fa-file-text"></i><span class="badge badge-red">3</span></a>
+                        <ul class="dropdown-menu dropdown-alerts">
+                            <li><p>Over-voting (2)</p></li>
+                            <li>
+                                <div class="dropdown-slimscroll">
+                                    <ul>
+                                        <li><a href="#"><span class="label label-red"><i class="fa fa-file-text-o"></i></span>New Comment<span class="pull-right text-muted small">4 mins ago</span></a></li>
+                                        <li><a href="#"><span class="label label-red"><i class="fa fa-file-text-o"></i></span>3 New Followers<span class="pull-right text-muted small">12 mins ago</span></a></li>
+                                        <li><a href="#"><span class="label label-red"><i class="fa fa-file-text-o"></i></span>Message Sent<span class="pull-right text-muted small">15 mins ago</span></a></li>
+                                        <li><a href="#"><span class="label label-red"><i class="fa fa-file-text-o"></i></span>New Task<span class="pull-right text-muted small">18 mins ago</span></a></li>
+                                        <li><a href="#"><span class="label label-red"><i class="fa fa-file-text-o"></i></span>Server Rebooted<span class="pull-right text-muted small">19 mins ago</span></a></li>
+                                        <li><a href="#"><span class="label label-red"><i class="fa fa-file-text-o"></i></span>New Task<span class="pull-right text-muted small">2 days ago</span></a></li>
+                                        <li><a href="#"><span class="label label-red"><i class="fa fa-file-text-o"></i></span>Message Sent<span class="pull-right text-muted small">5 days ago</span></a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="last"><a href="#" class="text-right">See all alerts</a></li>
+                        </ul>
+                    </li>
                     <li class="dropdown"><a data-hover="dropdown" href="#" class="dropdown-toggle"><i class="fa fa-bell fa-fw"></i><span class="badge badge-green">3</span></a>
                         <ul class="dropdown-menu dropdown-alerts">
                             <li><p>Collation Center (13)</p></li>
