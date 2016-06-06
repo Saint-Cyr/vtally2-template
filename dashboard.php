@@ -1,4 +1,4 @@
-<div class="page-content">
+<div class="page-content" id="vtallyChart">
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="portlet box">
