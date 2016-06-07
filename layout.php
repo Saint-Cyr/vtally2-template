@@ -362,7 +362,7 @@
             
             <!--END TITLE & BREADCRUMB PAGE--><!--BEGIN CONTENT-->
             
-            <?php include 'dashboard.php'; ?>
+            <?php include 'dashboard3.php'; ?>
             
             <div id="footer">
                 <div class="copyright">2014 © &mu;Admin - Responsive Multi-Style Admin Template</div>
