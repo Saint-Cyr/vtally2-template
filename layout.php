@@ -422,14 +422,14 @@ $(function() {
 });
 
 function startRefresh() {
-    /*setTimeout(startRefresh,10000);
-    $.get('http://localhost/VTALLY/web/app_dev.php/notification', function(data) {
-        $('#notification').html(data);    
-    });
+    setTimeout(startRefresh,10000);
+    //$.get('http://localhost/VTALLY/web/app_dev.php/notification', function(data) {
+      //  $('#notification').html(data);    
+   // });
     
     $.get('http://localhost/VTALLY/web/app_dev.php/notification', function(data) {
         $('#vtallyChart').html(data);    
-    });*/
+    });
 }
 </script>
 </body>
